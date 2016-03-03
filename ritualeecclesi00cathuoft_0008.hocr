@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ritualeecclesi00cathuoft_0008.png"; bbox 0 0 2248 3952; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 441 1492 1500 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 441 1492 1500 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 441 1492 1500 2104; baseline 0 1848"><span class='ocrx_word' id='word_1_1' title='bbox 441 1492 1500 2104; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 766 3345 1732 3457">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 766 3345 1732 3457">
+     <span class='ocr_line' id='line_1_2' title="bbox 766 3345 1732 3410; baseline 0.026 -35"><span class='ocrx_word' id='word_1_2' title='bbox 766 3345 970 3381; x_wconf 66' lang='lat' dir='ltr'><strong>LONDONss</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1004 3353 1193 3386; x_wconf 65' lang='lat' dir='ltr'><strong>nummu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1225 3357 1281 3387; x_wconf 78' lang='grc' dir='ltr'><strong>ΒΥ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1311 3359 1486 3393; x_wconf 65' lang='lat' dir='ltr'><strong>samum.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1516 3364 1732 3410; x_wconf 75' lang='lat' dir='ltr'>BEN&#39;I&#39;LEY,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 915 3408 1581 3457; baseline 0.024 -18"><span class='ocrx_word' id='word_1_7' title='bbox 915 3408 1091 3443; x_wconf 67' lang='lat' dir='ltr'><strong>lunoon</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1120 3413 1278 3457; x_wconf 68' lang='lat' dir='ltr'><strong>ROUSE,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1307 3418 1419 3451; x_wconf 63' lang='lat' dir='ltr'><strong>suot</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1449 3422 1581 3456; x_wconf 73' lang='lat' dir='ltr'>LANB.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
